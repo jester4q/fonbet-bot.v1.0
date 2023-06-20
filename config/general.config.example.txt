@@ -1,0 +1,10 @@
+login.username=+79999999999
+login.password=password
+browser.pause=20
+competition.filterTotalX = 2.5
+competition.filterValueX = 1.7
+competition.filterTotalY = 1.5
+competition.filterValueY =2
+competition.filterToTime = 5
+bet.value = 30
+

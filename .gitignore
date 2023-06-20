@@ -1,0 +1,10 @@
+/.cache
+/node_modules
+package-lock.json
+
+# IDE - VSCode
+.vscode/*
+server.code-workspace
+
+/log/*
+/dist
